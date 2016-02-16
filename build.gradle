@@ -15,7 +15,6 @@ targetCompatibility = 1.8
 
 repositories {
     mavenCentral()
-    maven {url 'http://maven.seasar.org/maven2'}
 }
 
 dependencies {
