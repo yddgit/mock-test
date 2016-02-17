@@ -1,4 +1,4 @@
-# Learn to Mockito in Unit Test
+# Learn to use Mockito in Unit Test
 
 Learn to use mockito in unit test.
 
